@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--coko-eu5fu27bgj1a.com/sitemap.xml
